@@ -1,0 +1,48 @@
+body {
+
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+
+    
+}
+.orange-color{
+
+    color: orange;
+}
+h1 {
+
+    font-size: 50px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.link-btn {
+
+    text-decoration: none;
+    text-transform: uppercase;
+    background-image: linear-gradient(orange,tomato);
+    padding: 12px 40px;
+    font-weight: 600;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.flexible {
+
+    display: flex;
+}
+
+.half{
+
+    width: 50%;
+    padding-left: 7%;
+}
+
+.half img {
+
+    width: 80%;
+
+    margin-top: 10%;
+}
